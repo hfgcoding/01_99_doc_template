@@ -12,12 +12,12 @@ Hier werden kurz die Klassen und Funktionen beschrieben, die eine tragende Rolle
 Klassen können z.B. wie folgt kurz beschrieben werden:
 
 * **Beer:** Eine Klasse um ein Bier in Code abzubilden. Enthält typische Eigenschaften von Bier:
-** `alcVol`: der Alkoholgehalt (Property)
-** `amount`: die Menge (Property, Standardwert: 500ml)
+  * `alcVol`: der Alkoholgehalt (Property)
+  * `amount`: die Menge (Property, Standardwert: 500ml)
 
 * **Person:** Eine Klasse um eine Person in Code abzubilden. Enthält typische Eigenschaften und Methoden von Menschen, um mit Bier zu interagieren:
-** `drinkBeer(beer)`: trinkt ein Bier, welches als Parameter übergeben wird und vom Typ / Klasse "Beer" sein muss (Funktion)
-** `isDrunk`: gibt an ob eine Person betrunken ist (Property, Boolean)
+  * `drinkBeer(beer)`: trinkt ein Bier, welches als Parameter übergeben wird und vom Typ / Klasse "Beer" sein muss (Funktion)
+  * `isDrunk`: gibt an ob eine Person betrunken ist (Property, Boolean)
 
 Zentrale Funktionen (die nicht zu Klassen gehören) folgen dem selben Muster, werden aber meist etwas ausführlicher beschrieben:
 
