@@ -29,7 +29,7 @@ Nach der Beschreibung der elementaren Bestandteile wird aus der Vogelperspektive
 
 _(Achtung, dieser Teil liest sich jetzt sehr ähnlich zur Funktionsbeschreibung von haveParty - das liegt daran dass es im Beispiel nur eine zentrale Funktion gibt. Ihr habt aber mehrere die zusammenspielen!)._
 
-## ToDos
+## Future Work
 
 Was noch fehlt, und was die nächsten Schritte wären um es ggf. umzusetzen:
 * Erweiterung der Party um Musik
